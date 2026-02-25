@@ -34,7 +34,11 @@ This application allows users to:
 
 ## 🌐 Live Demo
 
-(Add your Netlify/Vercel link here)
+<p align="center">
+  <a href="https://task-dashboard-enginow.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀-Live%20Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
 
 ---
 
