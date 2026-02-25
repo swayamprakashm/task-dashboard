@@ -1,0 +1,19 @@
+@import './base.css';
+
+/* Remove Vue + Vite default centered layout */
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Remove width restriction */
+#app {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
